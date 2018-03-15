@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/item_message"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/my_message"></item>
+
+        <item
+            android:id="@+id/item_schedule"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/my_schedule"></item>
+
+        <item
+            android:id="@+id/item_exit"
+            android:icon="@mipmap/ic_launcher"
+            android:title="退出"></item>
+    </group>
+</menu>

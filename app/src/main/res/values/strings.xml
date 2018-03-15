@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">移动医生</string>
+
+    <string name="my_message">我的消息</string>
+    <string name="my_schedule">我的排班</string>
+
+    <string name="medical_records">医嘱病历</string>
+    <string name="outpatient_department">门诊</string>
+    <string name="center">中心</string>
+
+    <string name="hospitalization">住院中心</string>
+    <string name="doctor_center">医生中心</string>
+    <string name="operation">手术中心</string>
+    <string name="double_click_exit">再按一次退出程序</string>
+
+</resources>
